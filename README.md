@@ -7,6 +7,8 @@
 
 https://Shawn0918.github.io/Movie-tags-extraction-with-LDA-model/
 
+### Interact with my project with Binder!
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Shawn0918/Final_Project/HEAD)
 
 ## Introduction
 
