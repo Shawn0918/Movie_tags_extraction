@@ -1,4 +1,4 @@
-## My Blog
+### My Blog
 [//]: # (This template replaces README.md when someone creates a new repo with the fastpages template.)
 
 ![](https://github.com/Shawn0918/Movie-tags-extraction-with-LDA-model/workflows/CI/badge.svg) 
@@ -7,6 +7,8 @@
 
 https://Shawn0918.github.io/Movie-tags-extraction-with-LDA-model/
 
+### Interact with my project with Binder!
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Shawn0918/Final_Project/HEAD)
 
 ## Introduction
 
