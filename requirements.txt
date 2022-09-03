@@ -1,4 +1,23 @@
-matplotlib>=2.2
-numpy>=1.15.0, <1.21.0
 pandas
-pytest==4.0.1
+numpy
+scipy
+requests
+nltk
+matplotlib
+seaborn
+wordcloud
+folium
+geopandas
+contextily
+mapclassify
+sklearn
+researchpy
+yellowbrick
+statsmodels
+ipywidgets
+scikit-surprise
+tensorflow
+jupyter-dash
+dash-cytoscape
+jupyter_server_proxy
+gensim
