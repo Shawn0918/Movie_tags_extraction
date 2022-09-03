@@ -1,9 +1,4 @@
+matplotlib>=2.2
+numpy>=1.15.0, <1.21.0
 pandas
-matplotlib
-nltk
-ipywidgets
-gensim
-re
-wordcloud
-string 
-gensim 
+pytest==4.0.1
