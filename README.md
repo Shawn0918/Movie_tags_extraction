@@ -1,3 +1,6 @@
+## Blog site
+<https://shawn0918.quarto.pub/movie-tags-extraction-blog/posts/2022-08-31-final_project.html>
+
 ### Interact with my project with Binder!
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Shawn0918/Final_Project/HEAD)
 
